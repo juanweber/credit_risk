@@ -1,2 +1,2 @@
-# credit_risk
-Credit risk EDA and Machine Learning
+# hadron_test
+Simple ML project using Git, GitHub and putting the model in production (Docker).
